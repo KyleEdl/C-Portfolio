@@ -1,0 +1,11 @@
+C:\Users\Kyle\Desktop\github\fizzbuzz\fizzbuzz\bin\Debug\netcoreapp2.1\fizzbuzz.deps.json
+C:\Users\Kyle\Desktop\github\fizzbuzz\fizzbuzz\bin\Debug\netcoreapp2.1\fizzbuzz.runtimeconfig.json
+C:\Users\Kyle\Desktop\github\fizzbuzz\fizzbuzz\bin\Debug\netcoreapp2.1\fizzbuzz.runtimeconfig.dev.json
+C:\Users\Kyle\Desktop\github\fizzbuzz\fizzbuzz\bin\Debug\netcoreapp2.1\fizzbuzz.dll
+C:\Users\Kyle\Desktop\github\fizzbuzz\fizzbuzz\bin\Debug\netcoreapp2.1\fizzbuzz.pdb
+C:\Users\Kyle\Desktop\github\fizzbuzz\fizzbuzz\obj\Debug\netcoreapp2.1\fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Desktop\github\fizzbuzz\fizzbuzz\obj\Debug\netcoreapp2.1\fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\Kyle\Desktop\github\fizzbuzz\fizzbuzz\obj\Debug\netcoreapp2.1\fizzbuzz.AssemblyInfo.cs
+C:\Users\Kyle\Desktop\github\fizzbuzz\fizzbuzz\obj\Debug\netcoreapp2.1\fizzbuzz.dll
+C:\Users\Kyle\Desktop\github\fizzbuzz\fizzbuzz\obj\Debug\netcoreapp2.1\fizzbuzz.pdb
+C:\Users\Kyle\Desktop\github\fizzbuzz\fizzbuzz\obj\Debug\netcoreapp2.1\fizzbuzz.csprojAssemblyReference.cache
